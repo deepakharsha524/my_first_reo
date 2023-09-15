@@ -1,0 +1,267 @@
+Skip to content
+Featured links
+Support
+Console
+Developers
+Start a trial
+Connect & explore
+Products
+Solutions
+Training & services
+Resources
+Partners
+About
+
+Search
+
+For youNew
+
+Contact us
+
+English
+Log in
+Red Hat
+Enterprise Linux
+Overview
+Explore
+Product variants
+Use cases
+Documentation
+Home  Products  Red Hat Enterprise Linux
+Red Hat Enterprise Linux
+Everywhere enterprise IT is headed, Red Hat® Enterprise Linux® is there. From the public cloud to the edge, it evolves to bring flexibility and reliability to new frontiers. This is the stable foundation for untold innovation.
+
+Try it
+ 
+Available on
+AWS logoMicrosoft logoGoogle Cloud logoIBM logoOracle Cloud Infrastructure logo
+
+The value of Red Hat Enterprise Linux
+Red Hat Enterprise Linux is the world’s leading enterprise Linux platform,* certified on hundreds of clouds and with thousands of hardware and software vendors. Red Hat Enterprise Linux can be purchased to support specific use cases like edge computing or SAP workloads, but every subscription includes these core benefits:
+
+
+This video can't play due to privacy settings
+
+To change your settings, select the "Cookie Preferences" link in the footer and opt in to "Advertising Cookies."
+
+Play the video
+Supporting the infrastructure that supports us all. Video duration: 0:58
+
+Features and benefits
+Subscription benefits
+Red Hat Enterprise Linux provides more than an operating system—it also connects you to Red Hat’s extensive hardware, software, and cloud partner ecosystem, and comes with 24x7 support. Red Hat Enterprise Linux 9.2 is our latest release, but with access to all supported versions and a 10 year life cycle, you can upgrade on your schedule and adopt new features when needed.
+
+Why choose Red Hat Enterprise Linux?
+Supported architectures
+Red Hat Enterprise Linux can be optimized to run on servers or high-performance workstations, and supports a range of hardware architectures like x86, ARM, IBM Power, IBM Z, and IBM LinuxONE. Our deep collaboration with upstream communities and hardware partners makes this possible, bringing you a reliable platform for many use cases and a consistent application environment across physical, virtual, and cloud deployments.
+
+Get the details
+Automation and management
+Get a consistent and stable administrative experience, allowing admins to spend more time on innovation—less time on repetitive, error-prone tasks. Red Hat Enterprise Linux includes Red Hat Insights, a managed service for analytics and remediation that delivers continuous vulnerability alerts and targeted guidance to help organizations maximize uptime and avoid emergencies. Plus, with the Red Hat Satellite add-on you can automate the remediation process.
+
+Review Linux management capabilities
+Install and migration tools
+From your first steps installing, migrating, or upgrading Red Hat Enterprise Linux to eventually deploying across multiple clouds, we provide utilities to help. Our migration tools make it easy to get started if you’re coming from CentOS Linux or another distro, and you can create optimized operating system images with Red Hat Enterprise Linux image builder that can handle the details of cloud deployments when you’re ready.
+
+See an example of our migration tools
+Security and compliance
+Simplify how your organization mitigates risk, automates security, and maintains compliance. Red Hat Enterprise Linux includes built-in security features like live kernel patching, security profiles, security standards certification, and a trusted software supply chain to help meet today’s high security and compliance expectations.
+
+Keep reading about Red Hat Enterprise Linux security
+Consistent performance
+No matter what hardware or workloads you are running, our comprehensive performance monitoring, tracing, and analysis tools help you optimize your systems. Detect performance anomalies, build a comprehensive view of system performance, and apply best-practices through preset tuning profiles so you can get the most out of your investments.
+
+Review performance tools
+Worldwide Operating Systems and Subsystems Market Shares, 2018; released November 2019
+
+Red Hat releases new versions of Red Hat Enterprise Linux
+Get the reliability you know, wherever enterprise IT goes.
+
+Read the 8.8 and 9.2 blog post
+Use cases for any cloud, any workload
+JUMP TO SECTION
+Edge computing
+Hybrid cloud
+SAP workloads
+SQL Server
+Migrating from CentOS Linux
+App development
+High performance computing
+Expand to the edge
+Red Hat Enterprise Linux extends your hybrid cloud infrastructure to the edge, scaled across hundreds—or even hundreds of thousands—of nodes all over the world. Create edge-optimized OS images, minimize workload interruptions caused by OS updates, transfer system updates more efficiently, and have confidence in automatic health checks and rollbacks.
+
+Why run our OS at the edge?
+
+This video can't play due to privacy settings
+
+To change your settings, select the "Cookie Preferences" link in the footer and opt in to "Advertising Cookies."
+
+Play the video
+Hybrid cloud starts with Linux
+Red Hat Enterprise Linux enables you to deploy and run applications anywhere—from physical and virtual, to private and public clouds—by delivering the consistent operating foundation needed for modern IT and enterprise hybrid cloud deployments. Red Hat’s collaboration with major cloud providers like AWS, Microsoft Azure, and Oracle Cloud Infrastructure (OCI), means customers can support future-focused deployments on the solid foundation of Red Hat Enterprise Linux.
+
+Learn how Red Hat Enterprise Linux simplifies hybrid cloud environments
+
+This video can't play due to privacy settings
+
+To change your settings, select the "Cookie Preferences" link in the footer and opt in to "Advertising Cookies."
+
+Play the video
+Migrate SAP workloads
+Organizations that depend on SAP to manage their business need an operating system that delivers performance, reliability, and the ability to modernize and integrate their SAP and non-SAP applications. With Red Hat Enterprise Linux for SAP Solutions, organizations can meet these needs and comply with the quickly approaching SAP requirement to migrate their applications to SAP HANA and SAP S/4HANA by the 2027 deadline.
+
+View Red Hat Enterprise Linux for SAP Solutions
+Deliver SQL Server on Linux
+Searching for a performance-driven, cost-effective platform for Microsoft SQL Server? Red Hat Enterprise Linux provides a scalable foundation and a consistent application experience across bare-metal, virtual machine, container, and hybrid cloud environments.
+
+View SQL Server on Red Hat Enterprise Linux
+Migrating from CentOS Linux
+Please note: On June 30, 2024, CentOS Linux 7 will reach End of Life (EOL). Explore Red Hat’s options to help ease your migration, including Red Hat Enterprise Linux 7 for Third Party Linux Migration. Find out more
+
+Our Convert2RHEL tool streamlines the migration process by minimizing the need for costly redeployment projects and reduces administrative burden by maintaining existing OS customizations, configurations, and preferences during the conversion. You can also take advantage of the similar user experience with Red Hat Enterprise Linux and decrease the need for staff retraining.
+
+Red Hat Enterprise Linux 7 for Third Party Linux Migration is a new offering designed to assist users of CentOS Linux 7 to maintain business continuity after the EOL date. This competitively-priced offering includes a Red Hat Enterprise Linux subscription and tooling to convert in-place instances of CentOS Linux 7 to Red Hat Enterprise Linux 7.
+
+Learn about CentOS migration options
+
+This video can't play due to privacy settings
+
+To change your settings, select the "Cookie Preferences" link in the footer and opt in to "Advertising Cookies."
+
+Play the video
+Developing on Red Hat Enterprise Linux
+Developers who join the Red Hat Developer program get access to Red Hat Enterprise Linux, how-to videos, demos, "get started" guides, documentation, and more. We offer a vast ecosystem to help you build and deploy apps in the cloud and our Universal Base Image (UBI) provides a solid and stable Red Hat Enterprise Linux userspace to streamline efforts as you expand into container development projects.
+
+Learn more about the developer experience
+Scale your HPC workloads with Red Hat Enterprise Linux
+Your operating system plays a key role in determining how well your high performance computing (HPC) infrastructure operates and performs. It connects your hardware, software, networking, and interfaces to form a unified, orchestrated environment. Red Hat Enterprise Linux provides a flexible and reliable platform for running HPC workloads at scale across datacenter, cloud, and hybrid environments.
+
+Keep reading about HPC for Red Hat Enterprise Linux
+A shared technological foundation
+Red Hat’s open hybrid cloud strategy is built on the technological foundation of Linux®, containers, and automation. An open hybrid cloud approach gives you the flexibility to run your applications anywhere you need them.
+
+Red Hat Enterprise Linux
+Every technology within your IT stack needs to work well together. Because those connections rely on the operating system, it has to be consistent, reliable, and flexible. Red Hat Enterprise Linux is the common link connecting modern IT.
+
+How our customers use Red Hat Enterprise Linux
+UPS
+UPS logo
+
+UPS created a container-based application platform that enables developers to more efficiently create new features for operations logistics and staffing.
+
+ 
+
+ 
+
+Get the story
+Lufthansa Technik
+Lufthansa Technik logo
+
+Lufthansa Technik used hybrid cloud infrastructure to build a digital platform that uses data to better organize and schedule airline maintenance.
+
+ 
+
+ 
+
+Get the story
+Tomago Aluminium
+Tomago Aluminium logo
+
+Tomago Aluminium improved development efficiency, consolidated its server footprint, and enhanced system and data security by migrating its SAP solution.
+
+Get the story
+If you’re looking for Linux, I don’t think that there’s a better-supported solution than RHEL.
+
+John Lemay
+
+Principal Systems Engineer
+
+Read more user reviews
+Training and certification
+Training courses
+Red Hat Enterprise Linux Technical Overview (RH024)
+Red Hat Security: Linux in Physical, Virtual, and Cloud (RH415)
+Learn more about Linux training
+Certifications
+Red Hat Certified System Administrator (RHCSA®)
+Red Hat Certified Engineer (RHCE®)
+See all certifications
+Try our learning subscription
+Get limited, self-service access to select labs and courses with a free 14-day trial of Red Hat Learning Subscription.
+
+Learn for free
+Talk to a Red Hatter
+First name *
+Last name *
+Work email *
+Work phone *
+Company *
+Department *
+
+-- Please Select --
+Job role *
+
+-- Please Select --
+Country *
+
+-- Please Select --
+Red Hat may use your personal data to inform you about its products, services, and events.
+
+Notify me about products, services, and events.
+
+Unsubscribe me from all marketing communications about Red Hat products, services, and events, including event invitations.
+You can stop receiving marketing emails by clicking the unsubscribe link in each email or withdraw your consent at any time in the Preference Center. See Privacy Statement for details.
+Red Hat logo
+Products
+Red Hat Enterprise Linux
+Red Hat OpenShift
+Red Hat Ansible Automation Platform
+Cloud services
+See all products
+Tools
+My account
+Training and certification
+Customer support
+Developer resources
+Learning community
+Red Hat Ecosystem Catalog
+Find a partner
+Try, buy, & sell
+Product trial center
+Red Hat Marketplace
+Red Hat Store
+Buy online (Japan)
+Console
+Communicate
+Contact sales
+Contact customer service
+Contact training
+Social
+About Red Hat
+We’re the world’s leading provider of enterprise open source solutions—including Linux, cloud, container, and Kubernetes. We deliver hardened solutions that make it easier for enterprises to work across platforms and environments, from the core datacenter to the network edge.
+
+Select a language
+English
+About Red Hat
+Jobs
+Events
+Locations
+Contact Red Hat
+Red Hat Blog
+Diversity, equity, and inclusion
+Cool Stuff Store
+Red Hat Summit
+© 2023 Red Hat, Inc.
+Privacy statement
+Terms of use
+All policies and guidelines
+Digital accessibility
+Cookie preferences
+
+How we use cookies
+We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement. By using this website you agree to our use of cookies.
+Close
+ 
+this is harsha /\n new to shell /\n hi everyone
+this is new linie
+ghfhjjkhjghfchut
