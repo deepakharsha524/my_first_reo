@@ -1,24 +1,4 @@
-Resources
-Partners
-About
-
-Search
-
-For youNew
-
-Contact us
-
-English
-Log in
-Red Hat
-Enterprise Linux
-Overview
-Explore
-Product variants
-Use cases
-Documentation
-Home  Products  Red Hat Enterprise Linux
-Red Hat Enterprise Linux
+Harsha test
 Everywhere enterprise IT is headed, Red Hat® Enterprise Linux® is there. From the public cloud to the edge, it evolves to bring flexibility and reliability to new frontiers. This is the stable foundation for untold innovation.
 
 Try it
