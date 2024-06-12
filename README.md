@@ -3,4 +3,6 @@
 
 Validate build trigger using poll scm
 
+test git integration
+
 
